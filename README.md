@@ -49,6 +49,8 @@ Windows directory migration tool with transaction recovery and integrity verific
 
 👉 **[View All Projects](https://github.com/hhtbing/portfolio)** - 19 projects organized by category
 
+🌐 **[Interactive Bilingual Site](https://hhtbing.github.io/portfolio/)** - All pages switch between 中文 / English
+
 ## 🛠️ Tech Stack
 
 **Languages:** Python · Kotlin · Swift · Go · JavaScript · TypeScript · C/C++ · C# · PowerShell  
