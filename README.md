@@ -25,23 +25,23 @@ Currently building distributed AI platforms, IoT systems, and developer tools th
 
 ## 🔥 Featured Projects
 
-### 🤖 [AgentMeshOS](https://github.com/hhtbing/portfolio/tree/main/projects/01-ai-platform/agentmeshos)
+### 🤖 [AgentMeshOS](https://hhtbing.github.io/portfolio/projects/01-ai-platform/agentmeshos)
 Self-hosted AI agent platform with distributed task scheduling and unified artifact management.  
 `Python` `FastAPI` `Nomad` `Docker` `Tailscale`
 
-### 📱 [OwlCare System](https://github.com/hhtbing/portfolio/tree/main/projects/02-mobile/owlcare)
+### 📱 [OwlCare System](https://hhtbing.github.io/portfolio/projects/02-mobile/owlcare)
 Multi-platform health monitoring system with native Android/iOS apps and self-hosted OTA backend.  
 `Kotlin` `Swift` `BLE` `FastAPI`
 
-### 🔬 [OTA-QL System](https://github.com/hhtbing/portfolio/tree/main/projects/03-iot-embedded/ota-system)
+### 🔬 [OTA-QL System](https://hhtbing.github.io/portfolio/projects/03-iot-embedded/ota-system)
 Full-stack OTA solution for radar devices with dual-protocol support and batch firmware management.  
 `Go` `MQTT` `Python` `Docker`
 
-### 🌐 [AWRL6844 Radar Gateway](https://github.com/hhtbing/portfolio/tree/main/projects/03-iot-embedded/radar-gateway)
+### 🌐 [AWRL6844 Radar Gateway](https://hhtbing.github.io/portfolio/projects/03-iot-embedded/radar-gateway)
 ESP32-based gateway bridging TI radar to Wi-Fi/TCP with web management interface.  
 `ESP32` `Node.js` `WebSocket`
 
-### 🔧 [DIR-MOVE-TOOLS](https://github.com/hhtbing/portfolio/tree/main/projects/05-tools/dir-move-tools)
+### 🔧 [DIR-MOVE-TOOLS](https://hhtbing.github.io/portfolio/projects/05-tools/dir-move-tools)
 Windows directory migration tool with transaction recovery and integrity verification.  
 `Python` `Tkinter` `PyInstaller`
 
