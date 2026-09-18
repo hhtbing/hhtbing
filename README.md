@@ -81,7 +81,6 @@ Windows 目录迁移工具，支持事务恢复和完整性校验。
 
 ### 🎮 其他项目
 - [Game Snake — 贪吃蛇游戏](https://github.com/hhtbing/portfolio/tree/main/projects/07-others/game-snake)
-- [Resume Evidence — 简历证据管理](https://github.com/hhtbing/portfolio/tree/main/projects/07-others/resume-evidence)
 - [Music MuseScore — 乐谱管理](https://github.com/hhtbing/portfolio/tree/main/projects/07-others/music-musescore)
 
 ## 🛠️ 技术栈

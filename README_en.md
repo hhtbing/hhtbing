@@ -81,7 +81,6 @@ Windows directory migration tool with transaction recovery and integrity verific
 
 ### 🎮 Other Projects
 - [Game Snake — Snake Game](https://github.com/hhtbing/portfolio/blob/main/projects/07-others/game-snake/README_en.md)
-- [Resume Evidence — Resume Evidence Management](https://github.com/hhtbing/portfolio/blob/main/projects/07-others/resume-evidence/README_en.md)
 - [Music MuseScore — Score Management](https://github.com/hhtbing/portfolio/blob/main/projects/07-others/music-musescore/README_en.md)
 
 ## 🛠️ Tech Stack
