@@ -1,3 +1,5 @@
+> 中文 | [**English**](./README_en.md)
+
 # 👋 你好，我是 Benson
 
 > AI 辅助全栈工程师 | AIoT 开发者 | Vibe Coding 实践者
