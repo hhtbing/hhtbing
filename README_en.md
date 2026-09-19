@@ -20,7 +20,7 @@ Currently building distributed AI platforms, IoT systems, and developer tools th
 
 ## 📊 Project Statistics
 
-- 🎯 **17 projects** across 7 technology domains
+- 🎯 Projects spanning **AI Platform / IoT Embedded / Mobile / Web Full-Stack / Tool Development / Data Services** and more technical domains
 - 🏗️ **5+ large-scale systems** in production
 - 📱 **Mobile application** live on Google Play
 - 🔧 **10+ utilities** and automation scripts
