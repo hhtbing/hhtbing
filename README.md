@@ -13,17 +13,17 @@
 ## 💼 核心能力
 
 - 🤖 **AI 平台架构** - 分布式任务调度、Agent 编排、成果管理
-- 📱 **移动开发** - Android/iOS 原生应用、BLE 配网、跨平台方案
+- 📱 **移动开发** - Android 原生应用、BLE 配网、跨平台方案
 - 🔬 **物联网与嵌入式** - ESP32、TI 雷达、USB 协议、OTA 系统
 - 🌐 **全栈 Web** - FastAPI、Express、React、Vue、Docker 部署
 - 🔧 **开发者工具** - Windows 实用工具、自动化脚本、CI/CD 流水线
 
 ## 📊 项目统计
 
-- 🎯 **19 个公开项目**，横跨 7 大技术领域
+- 🎯 **17 个项目**，横跨 7 大技术领域
 - 🏗️ **5+ 大型系统**在生产环境运行
-- 📱 **多个移动应用**已上线 Android/iOS
-- 🔧 **10+ 开源工具**和自动化脚本
+- 📱 **移动应用**已上线 Google Play
+- 🔧 **10+ 实用工具**和自动化脚本
 
 ## 🔥 精选项目
 
@@ -32,31 +32,31 @@
 `Python` `FastAPI` `Nomad` `Docker` `Tailscale`
 
 ### 📱 [OwlCare 系统](https://github.com/hhtbing/portfolio/tree/main/projects/02-mobile/owlcare)
-多平台健康监护系统，包含 Android/iOS 原生应用和自建 OTA 后台。  
-`Kotlin` `Swift` `BLE` `FastAPI`
+智能健康监护系统，包含 Android 原生应用和自建 OTA 后台。  
+[Google Play](https://play.google.com/store/apps/details?id=com.wisefido.owlmonitor) | `Kotlin` `BLE` `FastAPI`
 
 ### 🔬 [OTA-QL 系统](https://github.com/hhtbing/portfolio/tree/main/projects/03-iot-embedded/ota-system)
 雷达设备 OTA 管理的全栈方案，支持双协议和批量固件管理。  
 `Go` `MQTT` `Python` `Docker`
 
+### 🌐 [Owl Website](https://github.com/hhtbing/portfolio/tree/main/projects/04-web-business/owl-website)
+企业官网系统，包含后台管理和内容发布功能。  
+[https://www.wisefido.com/](https://www.wisefido.com/) | `FastAPI` `Vue` `Docker`
+
 ### 🌐 [AWRL6844 雷达网关](https://github.com/hhtbing/portfolio/tree/main/projects/03-iot-embedded/radar-gateway)
 基于 ESP32 的网关，将 TI 雷达桥接到 Wi-Fi/TCP，带 Web 管理界面。  
 `ESP32` `Node.js` `WebSocket`
 
-### 🔧 [DIR-MOVE-TOOLS](https://github.com/hhtbing/portfolio/tree/main/projects/05-tools/dir-move-tools)
-Windows 目录迁移工具，支持事务恢复和完整性校验。  
-`Python` `Tkinter` `PyInstaller`
-
 ## 📚 完整项目列表
 
-👉 **[查看所有项目](https://github.com/hhtbing/portfolio)** - 19 个项目按分类组织
+👉 **[查看所有项目](https://github.com/hhtbing/portfolio)** - 17 个项目按分类组织
 
 ### 🤖 AI 与平台类
 - [AgentMeshOS — 自托管 AI Agent 平台](https://github.com/hhtbing/portfolio/tree/main/projects/01-ai-platform/agentmeshos)
 - [Codex Host Bridge — 远程开发桥接](https://github.com/hhtbing/portfolio/tree/main/projects/01-ai-platform/codex-bridge)
 
 ### 📱 移动应用类
-- [OwlCare — 智能监护系统（含 Android / iOS / 配置工具 / OTA 后台）](https://github.com/hhtbing/portfolio/tree/main/projects/02-mobile/owlcare)
+- [OwlCare — 智能监护系统（Android 应用 + 配置工具 + OTA 后台）](https://github.com/hhtbing/portfolio/tree/main/projects/02-mobile/owlcare)
 
 ### 🔬 物联网与嵌入式
 - [OTA-QL — 雷达 OTA 管理系统](https://github.com/hhtbing/portfolio/tree/main/projects/03-iot-embedded/ota-system)
@@ -64,9 +64,8 @@ Windows 目录迁移工具，支持事务恢复和完整性校验。
 - [TI 雷达开发平台（历史参考）](https://github.com/hhtbing/portfolio/tree/main/projects/03-iot-embedded/ti-radar-dev)
 
 ### 🌐 Web 与业务系统
-- [Owl Website — 官网](https://github.com/hhtbing/portfolio/tree/main/projects/04-web-business/owl-website)
-- [OwlFront Mock — 前端演示](https://github.com/hhtbing/portfolio/tree/main/projects/04-web-business/owl-front-mock)
-- [Server Move — 服务器迁移](https://github.com/hhtbing/portfolio/tree/main/projects/04-web-business/server-move)
+- [Owl Website — 企业官网系统](https://github.com/hhtbing/portfolio/tree/main/projects/04-web-business/owl-website)
+- [OwlFront Mock — 前端演示系统](https://github.com/hhtbing/portfolio/tree/main/projects/04-web-business/owl-front-mock)
 - [Codex Mobile Control — 移动端控制](https://github.com/hhtbing/portfolio/tree/main/projects/04-web-business/codex-mobile-control)
 
 ### 🔧 工具与实用程序
@@ -80,22 +79,39 @@ Windows 目录迁移工具，支持事务恢复和完整性校验。
 - [FHIR Coding Dictionary — 医疗编码字典](https://github.com/hhtbing/portfolio/tree/main/projects/06-data/fhir-coding-dictionary)
 
 ### 🎮 其他项目
-- [Game Snake — 贪吃蛇游戏](https://github.com/hhtbing/portfolio/tree/main/projects/07-others/game-snake)
-- [Music MuseScore — 乐谱管理](https://github.com/hhtbing/portfolio/tree/main/projects/07-others/music-musescore)
+- [Game Snake — 微信小游戏](https://github.com/hhtbing/portfolio/tree/main/projects/07-others/game-snake)
+- [Music MuseScore — BGM 批量生成工具](https://github.com/hhtbing/portfolio/tree/main/projects/07-others/music-musescore)
 
 ## 🛠️ 技术栈
 
-**编程语言：** Python · Kotlin · Swift · Go · JavaScript · TypeScript · C/C++ · C# · PowerShell  
-**前端：** React · Vue · Jetpack Compose · SwiftUI · WPF · Vanilla JS  
-**后端：** FastAPI · Express · Flask · ASP.NET  
-**移动开发：** Android SDK · iOS SDK · BLE · Wi-Fi Direct  
-**嵌入式：** ESP32 · TI Radar · USB · UART/SPI/I2C  
-**基础设施：** Docker · Nomad · Tailscale · Nginx · SQLite · PostgreSQL  
-**工具：** Git · VS Code · Xcode · Android Studio · Postman
+### 后端开发
+- Python (FastAPI, SQLAlchemy, Pydantic)
+- Go (MQTT, HTTP Server, TCP)
+- Java (Android SDK)
+- Node.js (Express, WebSocket)
+
+### 前端开发
+- Vue.js, React
+- JavaScript/TypeScript
+- Jetpack Compose (Android)
+- HTML5/CSS3
+
+### 嵌入式 & IoT
+- ESP32 (ESP-IDF)
+- TI 毫米波雷达
+- BLE/Wi-Fi 协议
+- MQTT, TCP/IP
+- USB 协议栈
+
+### 基础设施
+- Docker, Nomad
+- PostgreSQL, SQLite, Redis
+- Nginx, Tailscale
+- Git, CI/CD (GitHub Actions)
 
 ## 📫 联系方式
 
-- 📧 Email: [你的邮箱]
+- 📧 Email: hhtbing@foxmail.com
 - 🔗 GitHub: [@hhtbing](https://github.com/hhtbing)
 
 ---
