@@ -47,9 +47,7 @@ Corporate website system with backend management and content publishing.
 ESP32-based gateway bridging TI radar to Wi-Fi/TCP with web management interface.  
 `ESP32` `Node.js` `WebSocket`
 
-## 📚 Complete Project List
-
-👉 **[View All Projects](https://github.com/hhtbing/portfolio)** - 17 projects organized by category
+## 📚 Project Categories
 
 ### 🤖 AI & Platform
 - [AgentMeshOS — Self-Hosted AI Agent Platform](https://github.com/hhtbing/portfolio/blob/main/projects/01-ai-platform/agentmeshos/README_en.md)

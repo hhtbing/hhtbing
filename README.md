@@ -47,9 +47,7 @@
 基于 ESP32 的网关，将 TI 雷达桥接到 Wi-Fi/TCP，带 Web 管理界面。  
 `ESP32` `Node.js` `WebSocket`
 
-## 📚 完整项目列表
-
-👉 **[查看所有项目](https://github.com/hhtbing/portfolio)** - 17 个项目按分类组织
+## 📚 项目分类
 
 ### 🤖 AI 与平台类
 - [AgentMeshOS — 自托管 AI Agent 平台](https://github.com/hhtbing/portfolio/tree/main/projects/01-ai-platform/agentmeshos)
