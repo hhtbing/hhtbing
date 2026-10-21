@@ -8,11 +8,11 @@
 
 Electronic engineering background with extensive experience in medical electronics, embedded systems, and full-stack development. Specialized in **AI-assisted development (Vibe Coding)** using Codex, combining Git, terminal, and Docker to rapidly understand and build various applications.
 
-Currently building distributed AI platforms, IoT systems, and developer tools that bridge hardware and software.
+Currently building a self-hosted AI Agent platform, model-routing and long-term memory services, IoT systems, and developer tools that bridge hardware and software.
 
 ## 💼 Core Capabilities
 
-- 🤖 **AI Platform Architecture** - Distributed task scheduling, agent orchestration, artifact management
+- 🤖 **AI Platform and Model Infrastructure** - Agent orchestration, artifact management, model routing, long-term memory, and context services
 - 📱 **Mobile Development** - Native Android apps, BLE provisioning, cross-platform solutions
 - 🔬 **IoT & Embedded** - ESP32, TI radar, USB protocols, OTA systems
 - 🌐 **Full-Stack Web** - FastAPI, Express, React, Vue, Docker deployment
@@ -20,16 +20,26 @@ Currently building distributed AI platforms, IoT systems, and developer tools th
 
 ## 📊 Project Statistics
 
-- 🎯 Projects spanning **AI Platform / IoT Embedded / Mobile / Web Full-Stack / Tool Development / Data Services** and more technical domains
-- 🏗️ **5+ large-scale systems** in production
+- 🎯 Work spanning **AI Platform / IoT Embedded / Mobile / Web Full-Stack / Tool Development / Data Services**
+- 🏗️ AI Agent platform extended with model routing and cross-agent memory capabilities
 - 📱 **Mobile application** live on Google Play
-- 🔧 **10+ utilities** and automation scripts
+- 🔧 Utilities and automation covering releases, documents, icons, and USB device management
 
 ## 🔥 Featured Projects
 
 ### 🤖 [AgentMeshOS](https://github.com/hhtbing/portfolio/blob/main/projects/01-ai-platform/agentmeshos/README_en.md)
 Self-hosted AI Agent platform with distributed task scheduling and unified artifact management.  
 `Python` `FastAPI` `Nomad` `Docker` `Tailscale`
+
+### 🧭 [Model Router](https://github.com/hhtbing/portfolio/blob/main/projects/01-ai-platform/model-router/README_en.md)
+Multi-model routing and access layer with multi-provider support, key pools, cooldown and failover, health and usage visibility, and Responses/Chat protocol passthrough.
+
+`Python` `FastAPI` `SQLite` `Responses/Chat`
+
+### 🧠 [Agent Memory Service](https://github.com/hhtbing/portfolio/blob/main/projects/01-ai-platform/mcp-memory-server/README_en.md)
+Cross-agent long-term memory and context service with MCP, Hook and REST integration, hybrid retrieval, knowledge graphs, user profiles, and skills/rules management.
+
+`Python` `MCP` `SQLite-vec` `ONNX` `bge-m3`
 
 ### 📱 [OwlCare System](https://github.com/hhtbing/portfolio/blob/main/projects/02-mobile/owlcare/README_en.md)
 Smart health monitoring system with native Android app and self-hosted OTA backend.  
@@ -51,6 +61,8 @@ ESP32-based gateway bridging TI radar to Wi-Fi/TCP with web management interface
 
 ### 🤖 AI & Platform
 - [AgentMeshOS — Self-Hosted AI Agent Platform](https://github.com/hhtbing/portfolio/blob/main/projects/01-ai-platform/agentmeshos/README_en.md)
+- [Model Router — Multi-Model Routing and Access Layer](https://github.com/hhtbing/portfolio/blob/main/projects/01-ai-platform/model-router/README_en.md)
+- [Agent Memory Service — Cross-Agent Long-Term Memory and Context Service](https://github.com/hhtbing/portfolio/blob/main/projects/01-ai-platform/mcp-memory-server/README_en.md)
 - [Codex Host Bridge — Remote Development Bridge](https://github.com/hhtbing/portfolio/blob/main/projects/01-ai-platform/codex-bridge/README_en.md)
 
 ### 📱 Mobile Applications
@@ -104,6 +116,8 @@ ESP32-based gateway bridging TI radar to Wi-Fi/TCP with web management interface
 ### Infrastructure
 - Docker, Nomad
 - PostgreSQL, SQLite, Redis
+- MCP, Hook, REST
+- SQLite-vec, ONNX, bge-m3
 - Nginx, Tailscale
 - Git, CI/CD (GitHub Actions)
 

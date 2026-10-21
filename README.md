@@ -8,11 +8,11 @@
 
 电子工程背景，长期从事医疗电子、嵌入式系统与全栈开发。专注于**使用 Codex 等 AI 工具进行辅助开发（Vibe Coding）**，结合 Git、终端、Docker 快速理解陌生系统并构建各类应用。
 
-目前正在构建分布式 AI 平台、物联网系统和开发者工具，连接硬件与软件的桥梁。
+目前正在构建自托管 AI Agent 平台、模型路由与长期记忆服务、物联网系统和开发者工具，连接硬件与软件的桥梁。
 
 ## 💼 核心能力
 
-- 🤖 **AI 平台架构** - 分布式任务调度、Agent 编排、成果管理
+- 🤖 **AI 平台与模型基础设施** - Agent 编排、成果管理、模型路由、长期记忆与上下文服务
 - 📱 **移动开发** - Android 原生应用、BLE 配网、跨平台方案
 - 🔬 **物联网与嵌入式** - ESP32、TI 雷达、USB 协议、OTA 系统
 - 🌐 **全栈 Web** - FastAPI、Express、React、Vue、Docker 部署
@@ -20,16 +20,26 @@
 
 ## 📊 项目统计
 
-- 🎯 横跨 **AI 平台 / IoT 嵌入式 / 移动端 / Web 全栈 / 工具开发 / 数据服务** 等多个技术领域
-- 🏗️ **5+ 大型系统**在生产环境运行
+- 🎯 覆盖 **AI 平台 / IoT 嵌入式 / 移动端 / Web 全栈 / 工具开发 / 数据服务**
+- 🏗️ AI Agent 平台持续扩展模型路由与跨 Agent 记忆能力
 - 📱 **移动应用**已上线 Google Play
-- 🔧 **10+ 实用工具**和自动化脚本
+- 🔧 工具与自动化覆盖发布、文档、图标和 USB 设备管理
 
 ## 🔥 精选项目
 
 ### 🤖 [AgentMeshOS](https://github.com/hhtbing/portfolio/tree/main/projects/01-ai-platform/agentmeshos)
 自托管 AI Agent 平台，支持分布式任务调度和统一成果管理。  
 `Python` `FastAPI` `Nomad` `Docker` `Tailscale`
+
+### 🧭 [Model Router](https://github.com/hhtbing/portfolio/tree/main/projects/01-ai-platform/model-router)
+多模型路由与接入层，支持多 Provider、Key 池、冷却切换、健康与用量观测，以及 Responses/Chat 协议路径透传。
+
+`Python` `FastAPI` `SQLite` `Responses/Chat`
+
+### 🧠 [Agent Memory Service](https://github.com/hhtbing/portfolio/tree/main/projects/01-ai-platform/mcp-memory-server)
+跨 Agent 长期记忆与上下文服务，支持 MCP、Hook、REST 接入，以及混合检索、知识图谱、用户画像和技能/规则管理。
+
+`Python` `MCP` `SQLite-vec` `ONNX` `bge-m3`
 
 ### 📱 [OwlCare 系统](https://github.com/hhtbing/portfolio/tree/main/projects/02-mobile/owlcare)
 智能健康监护系统，包含 Android 原生应用和自建 OTA 后台。  
@@ -51,6 +61,8 @@
 
 ### 🤖 AI 与平台类
 - [AgentMeshOS — 自托管 AI Agent 平台](https://github.com/hhtbing/portfolio/tree/main/projects/01-ai-platform/agentmeshos)
+- [Model Router — 多模型路由与接入层](https://github.com/hhtbing/portfolio/tree/main/projects/01-ai-platform/model-router)
+- [Agent Memory Service — 跨 Agent 长期记忆与上下文服务](https://github.com/hhtbing/portfolio/tree/main/projects/01-ai-platform/mcp-memory-server)
 - [Codex Host Bridge — 远程开发桥接](https://github.com/hhtbing/portfolio/tree/main/projects/01-ai-platform/codex-bridge)
 
 ### 📱 移动应用类
@@ -104,6 +116,8 @@
 ### 基础设施
 - Docker, Nomad
 - PostgreSQL, SQLite, Redis
+- MCP, Hook, REST
+- SQLite-vec, ONNX, bge-m3
 - Nginx, Tailscale
 - Git, CI/CD (GitHub Actions)
 
