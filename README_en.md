@@ -46,6 +46,8 @@ Smart health monitoring system with native Android app and self-hosted OTA backe
 The project page includes screenshots of the product website, DEMO dashboard and Google Play listing.  
 [Google Play](https://play.google.com/store/apps/details?id=com.wisefido.owlmonitor) | `Kotlin` `BLE` `FastAPI`
 
+<img src="./assets/cases/owlcare-website.png" width="720" alt="OwlCare Product Website">
+
 ### 🔬 [OTA-QL System](https://github.com/hhtbing/portfolio/blob/main/projects/03-iot-embedded/ota-system/README_en.md)
 Full-stack OTA management solution for radar devices with dual-protocol support.  
 `Go` `MQTT` `Python` `Docker`
@@ -58,9 +60,13 @@ Corporate website system with backend management and content publishing.
 Multilingual WooCommerce home textile storefront for the Brazilian market, covering the homepage, category Mega Menu, filtering, cart and pre-checkout flow, with 4 storefront screenshots on the project page.  
 `WordPress` `WooCommerce` `Woodmart` `PHP`
 
+<img src="./assets/cases/three-dogs-home.png" width="720" alt="Three Dogs Homepage">
+
 ### 🌐 [AWRL6844 Radar Gateway](https://github.com/hhtbing/portfolio/blob/main/projects/03-iot-embedded/radar-gateway/README_en.md)
 ESP32-based gateway bridging TI radar to Wi-Fi/TCP with web management interface.  
 `ESP32` `Node.js` `WebSocket`
+
+<img src="./assets/cases/radar-3d-heatmap.png" width="720" alt="Radar 3D Coverage Heatmap">
 
 ## 📚 Project Categories
 

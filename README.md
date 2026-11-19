@@ -46,6 +46,8 @@
 项目页附产品官网、DEMO 管理看板和 Google Play 发布页三张案例截图。  
 [Google Play](https://play.google.com/store/apps/details?id=com.wisefido.owlmonitor) | `Kotlin` `BLE` `FastAPI`
 
+<img src="./assets/cases/owlcare-website.png" width="720" alt="OwlCare 产品官网">
+
 ### 🔬 [OTA-QL 系统](https://github.com/hhtbing/portfolio/tree/main/projects/03-iot-embedded/ota-system)
 雷达设备 OTA 管理的全栈方案，支持双协议和批量固件管理。  
 `Go` `MQTT` `Python` `Docker`
@@ -58,9 +60,13 @@
 面向巴西市场的多语言 WooCommerce 家居纺织品独立站，覆盖首页、分类 Mega Menu、筛选、购物车和结算前流程，项目页附 4 张前台截图。  
 `WordPress` `WooCommerce` `Woodmart` `PHP`
 
+<img src="./assets/cases/three-dogs-home.png" width="720" alt="Three Dogs 首页">
+
 ### 🌐 [AWRL6844 雷达网关](https://github.com/hhtbing/portfolio/tree/main/projects/03-iot-embedded/radar-gateway)
 基于 ESP32 的网关，将 TI 雷达桥接到 Wi-Fi/TCP，带 Web 管理界面。  
 `ESP32` `Node.js` `WebSocket`
+
+<img src="./assets/cases/radar-3d-heatmap.png" width="720" alt="雷达 3D 覆盖热力图">
 
 ## 📚 项目分类
 
