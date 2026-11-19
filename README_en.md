@@ -43,6 +43,7 @@ Cross-agent long-term memory and context service with MCP, Hook and REST integra
 
 ### 📱 [OwlCare System](https://github.com/hhtbing/portfolio/blob/main/projects/02-mobile/owlcare/README_en.md)
 Smart health monitoring system with native Android app and self-hosted OTA backend.  
+The project page includes screenshots of the product website, DEMO dashboard and Google Play listing.  
 [Google Play](https://play.google.com/store/apps/details?id=com.wisefido.owlmonitor) | `Kotlin` `BLE` `FastAPI`
 
 ### 🔬 [OTA-QL System](https://github.com/hhtbing/portfolio/blob/main/projects/03-iot-embedded/ota-system/README_en.md)
@@ -52,6 +53,10 @@ Full-stack OTA management solution for radar devices with dual-protocol support.
 ### 🌐 [Owl Website](https://github.com/hhtbing/portfolio/blob/main/projects/04-web-business/owl-website/README_en.md)
 Corporate website system with backend management and content publishing.  
 [https://www.wisefido.com/](https://www.wisefido.com/) | `FastAPI` `Vue` `Docker`
+
+### 🛒 [Three Dogs Storefront](https://github.com/hhtbing/portfolio/blob/main/projects/04-web-business/three-dogs/README_en.md)
+Multilingual WooCommerce home textile storefront for the Brazilian market, covering the homepage, category Mega Menu, filtering, cart and pre-checkout flow, with 4 storefront screenshots on the project page.  
+`WordPress` `WooCommerce` `Woodmart` `PHP`
 
 ### 🌐 [AWRL6844 Radar Gateway](https://github.com/hhtbing/portfolio/blob/main/projects/03-iot-embedded/radar-gateway/README_en.md)
 ESP32-based gateway bridging TI radar to Wi-Fi/TCP with web management interface.  
@@ -74,6 +79,7 @@ ESP32-based gateway bridging TI radar to Wi-Fi/TCP with web management interface
 - [TI Radar Development Platform (Historical Reference)](https://github.com/hhtbing/portfolio/blob/main/projects/03-iot-embedded/ti-radar-dev/README_en.md)
 
 ### 🌐 Web & Business Systems
+- [Three Dogs — Multilingual WooCommerce Home Textile Storefront](https://github.com/hhtbing/portfolio/blob/main/projects/04-web-business/three-dogs/README_en.md)
 - [Owl Website — Corporate Website System](https://github.com/hhtbing/portfolio/blob/main/projects/04-web-business/owl-website/README_en.md)
 - [OwlFront Mock — Frontend Demo System](https://github.com/hhtbing/portfolio/blob/main/projects/04-web-business/owl-front-mock/README_en.md)
 - [Codex Mobile Control — Mobile Control](https://github.com/hhtbing/portfolio/blob/main/projects/04-web-business/codex-mobile-control/README_en.md)

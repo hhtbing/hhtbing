@@ -43,6 +43,7 @@
 
 ### 📱 [OwlCare 系统](https://github.com/hhtbing/portfolio/tree/main/projects/02-mobile/owlcare)
 智能健康监护系统，包含 Android 原生应用和自建 OTA 后台。  
+项目页附产品官网、DEMO 管理看板和 Google Play 发布页三张案例截图。  
 [Google Play](https://play.google.com/store/apps/details?id=com.wisefido.owlmonitor) | `Kotlin` `BLE` `FastAPI`
 
 ### 🔬 [OTA-QL 系统](https://github.com/hhtbing/portfolio/tree/main/projects/03-iot-embedded/ota-system)
@@ -52,6 +53,10 @@
 ### 🌐 [Owl Website](https://github.com/hhtbing/portfolio/tree/main/projects/04-web-business/owl-website)
 企业官网系统，包含后台管理和内容发布功能。  
 [https://www.wisefido.com/](https://www.wisefido.com/) | `FastAPI` `Vue` `Docker`
+
+### 🛒 [Three Dogs 电商独立站](https://github.com/hhtbing/portfolio/tree/main/projects/04-web-business/three-dogs)
+面向巴西市场的多语言 WooCommerce 家居纺织品独立站，覆盖首页、分类 Mega Menu、筛选、购物车和结算前流程，项目页附 4 张前台截图。  
+`WordPress` `WooCommerce` `Woodmart` `PHP`
 
 ### 🌐 [AWRL6844 雷达网关](https://github.com/hhtbing/portfolio/tree/main/projects/03-iot-embedded/radar-gateway)
 基于 ESP32 的网关，将 TI 雷达桥接到 Wi-Fi/TCP，带 Web 管理界面。  
@@ -74,6 +79,7 @@
 - [TI 雷达开发平台（历史参考）](https://github.com/hhtbing/portfolio/tree/main/projects/03-iot-embedded/ti-radar-dev)
 
 ### 🌐 Web 与业务系统
+- [Three Dogs — 多语言 WooCommerce 家居电商独立站](https://github.com/hhtbing/portfolio/tree/main/projects/04-web-business/three-dogs)
 - [Owl Website — 企业官网系统](https://github.com/hhtbing/portfolio/tree/main/projects/04-web-business/owl-website)
 - [OwlFront Mock — 前端演示系统](https://github.com/hhtbing/portfolio/tree/main/projects/04-web-business/owl-front-mock)
 - [Codex Mobile Control — 移动端控制](https://github.com/hhtbing/portfolio/tree/main/projects/04-web-business/codex-mobile-control)
